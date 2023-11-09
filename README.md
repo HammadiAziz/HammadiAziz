@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="Chill Mario, Pixel Jeff.gif"  />
+  <img height="500" width="1100" src="Chill Mario, Pixel Jeff.gif"  />
 </div>
 
 ###
@@ -95,6 +95,7 @@
 ###
 
 <div align="center">
+  
   <img src="https://profile-counter.glitch.me/HammadiAziz/count.svg?"  />
 </div>
 
