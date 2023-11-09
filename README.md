@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">engineering student at ESPRIT<br>Trying to stay alive</p>
+<p align="center">Engineering student at ESPRIT<br>Trying to stay alive</p>
 
 ###
 
