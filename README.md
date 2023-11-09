@@ -88,15 +88,16 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/HammadiAziz/HammadiAziz/output/snake.svg" alt="Snake animation" />
 
-###
+
+<div align="center">
+ <img height="100" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV0ZmRzNHI0b2FmbDVjcHY4dWZvNTAyajA2cTN0bDc2NndkeXpoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SeVBENCbz4YiL6rXj3/giphy.gif" />
+</div>
+
 
 <div align="center">
   
   <img src="https://profile-counter.glitch.me/HammadiAziz/count.svg?"  />
 </div>
 
-###
